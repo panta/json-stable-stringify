@@ -1,7 +1,7 @@
 {
 	"name": "json-stable-stringify",
 	"description": "deterministic JSON.stringify() with custom sorting to get deterministic hashes from stringified results",
-	"version": "1.0.0",
+	"version": "1.0.0+any",
 	"keywords": [
 		"json",
 		"stringify",

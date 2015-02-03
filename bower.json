@@ -1,6 +1,6 @@
 {
 	"name": "json-stable-stringify",
-	"version": "1.0.0",
+	"version": "1.0.0+any",
 	"main": "json_stable_stringify.min.js",
 	"devDependencies": {
 		"tape": "~1.0.4",
